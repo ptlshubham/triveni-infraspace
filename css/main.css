@@ -1836,6 +1836,146 @@ div.ttm-page-title-row > .ttm-bg-layer { background-color: rgba(24,35,51,0.85); 
     padding-bottom: 110px;
     z-index: 11;
 }
+.ttm-page-title-row-about { 
+    position: relative;
+    background-image: url(../images/projects/1920x380-about.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.ttm-page-title-row-about > .ttm-bg-layer { background-color: rgba(24,35,51,0.85); }
+.ttm-page-title-row-about { 
+    display: block;
+    padding-top: 195px;
+    padding-bottom: 110px;
+    z-index: 11;
+}
+.ttm-page-title-row-contact { 
+    position: relative;
+    background-image: url(../images/projects/1920x380-contact.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.ttm-page-title-row-contact > .ttm-bg-layer { background-color: rgba(24,35,51,0.85); }
+.ttm-page-title-row-contact { 
+    display: block;
+    padding-top: 195px;
+    padding-bottom: 110px;
+    z-index: 11;
+}
+.ttm-page-title-row-gallery { 
+    position: relative;
+    background-image: url(../images/projects/1920x380-gallery.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.ttm-page-title-row-gallery > .ttm-bg-layer { background-color: rgba(24,35,51,0.85); }
+.ttm-page-title-row-gallery { 
+    display: block;
+    padding-top: 195px;
+    padding-bottom: 110px;
+    z-index: 11;
+}
+.ttm-page-title-row-landmark { 
+    position: relative;
+    background-image: url(../images/projects/1920x380-landmark.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.ttm-page-title-row-landmark > .ttm-bg-layer { background-color: rgba(24,35,51,0.85); }
+.ttm-page-title-row-landmark { 
+    display: block;
+    padding-top: 195px;
+    padding-bottom: 110px;
+    z-index: 11;
+}
+.ttm-page-title-row-vishwa { 
+    position: relative;
+    background-image: url(../images/projects/1920x380-vishwa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.ttm-page-title-row-vishwa > .ttm-bg-layer { background-color: rgba(255, 255, 255, 0.85); }
+.ttm-page-title-row-vishwa { 
+    display: block;
+    padding-top: 195px;
+    padding-bottom: 110px;
+    z-index: 11;
+}
+.ttm-page-title-row-arcade { 
+    position: relative;
+    background-image: url(../images/projects/1920x380-arcade.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.ttm-page-title-row-arcade > .ttm-bg-layer { background-color: rgba(24,35,51,0.85); }
+.ttm-page-title-row-arcade { 
+    display: block;
+    padding-top: 195px;
+    padding-bottom: 110px;
+    z-index: 11;
+}
+.ttm-page-title-row-enclave { 
+    position: relative;
+    background-image: url(../images/projects/1920x380-enclave.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.ttm-page-title-row-enclave > .ttm-bg-layer { background-color: rgba(24,35,51,0.85); }
+.ttm-page-title-row-enclave { 
+    display: block;
+    padding-top: 195px;
+    padding-bottom: 110px;
+    z-index: 11;
+}
+.ttm-page-title-row-sangam { 
+    position: relative;
+    background-image: url(../images/projects/1920x380-sangam.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.ttm-page-title-row-sangam > .ttm-bg-layer { background-color: rgba(24,35,51,0.85); }
+.ttm-page-title-row-sangam { 
+    display: block;
+    padding-top: 195px;
+    padding-bottom: 110px;
+    z-index: 11;
+}
+.ttm-page-title-row-harsh { 
+    position: relative;
+    background-image: url(../images/projects/1920x380-harsh.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.ttm-page-title-row-harsh > .ttm-bg-layer { background-color: rgba(24,35,51,0.85); }
+.ttm-page-title-row-harsh { 
+    display: block;
+    padding-top: 195px;
+    padding-bottom: 110px;
+    z-index: 11;
+}
+.ttm-page-title-row-blogs { 
+    position: relative;
+    background-image: url(../images/projects/1920x380-blogs.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.ttm-page-title-row-blogs > .ttm-bg-layer { background-color: rgba(24,35,51,0.85); }
+.ttm-page-title-row-blogs { 
+    display: block;
+    padding-top: 195px;
+    padding-bottom: 110px;
+    z-index: 11;
+}
 .title-box .page-title-heading h1 {
     text-transform: capitalize;
     font-size: 40px;

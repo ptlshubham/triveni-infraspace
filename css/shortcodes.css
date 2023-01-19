@@ -149,7 +149,7 @@
     background-position: center;
 }
 .bg-img2{
-    background-image: url(https://via.placeholder.com/1920X485/888888.jpg);
+    background-image: url(../images/bg-image/1920x485.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -278,7 +278,7 @@
     background-size: cover !important;
 }
 .col-bg-img-three.ttm-col-bgimage-yes .ttm-col-wrapper-bg-layer{
-    background-image: url(../images/bg-image/1200x628.jpg) !important;
+    /* background-image: url(../images/bg-image/1200x628.jpg) !important; */
     background-position: center center!important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -894,8 +894,8 @@
     background: #f7f9fe;
     padding: 25px 25px 25px;
     max-width: 160px;
-    bottom: -60px;
-    right: 5px;
+    bottom: -85px;
+    right: 210px;
     border: 1px solid #dfe5f3;
     text-align: center;
 }
